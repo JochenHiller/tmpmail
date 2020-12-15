@@ -21,6 +21,10 @@ use the `--browser` argument followed by the command needed to launch the web br
 - `w3m`
 - `curl`
 - [`jq`](https://github.com/stedolan/jq)
+- `awk`
+- `sort`
+- `cut`
+- `tail`
 
 ## Installation
 ### Install locally
